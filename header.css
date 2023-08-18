@@ -1,0 +1,41 @@
+.menu-navegator {
+  font-family: arial; 
+  text-decoration: none; 
+  color: rgb(51, 25, 0); 
+  margin-left: 20px; 
+  margin-right: 20px; 
+  font-size: 16px; 
+  
+} 
+
+
+.header-texts{
+  background-color: rgb(255, 255, 255); 
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  
+}
+
+.header{
+  display: flex; 
+  flex-direction: row; 
+  justify-content: center; 
+  background-color: rgb(255, 255, 255); 
+  height: 90px; 
+  align-items: center; 
+  position: fixed; 
+  right: 0px; 
+  left: 0px;  
+  top: 0px; 
+  z-index: 100; 
+  box-shadow: 0px 0px 10px rgb(0, 0, 0, 0.15);
+} 
+
+.header-logo{
+  height: 40px; 
+  margin-right: 20px;
+} 
+
+
+

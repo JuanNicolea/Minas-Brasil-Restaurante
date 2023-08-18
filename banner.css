@@ -1,0 +1,13 @@
+.banner{
+  height: 500px; 
+  background-color: lightpink; 
+  margin-bottom: 10px;
+}  
+
+.banner-home{
+  height: 500px; 
+  width: 100%; 
+  object-fit: cover; 
+  object-position: center; 
+  
+}

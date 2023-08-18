@@ -1,0 +1,11 @@
+.imagem-cardapio{
+  height: 200px; 
+  flex: 1; 
+  object-fit: cover; 
+  object-position: center;
+}  
+
+.cardapio-banner{
+  display: flex; 
+  
+}

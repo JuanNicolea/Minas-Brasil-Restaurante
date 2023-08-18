@@ -1,0 +1,61 @@
+.foto-do-prato{
+  height: 150px; 
+  width: 200px; 
+  border-radius: 10px; 
+  object-fit: cover; 
+  border-width: 3px; 
+  border-style: solid; 
+  border-color: rgb(51, 25, 0);
+} 
+
+.foto-prato{
+  width: 240px; 
+   
+  height: 200px; 
+  align-items: center; 
+  justify-content: center; 
+  display: flex;
+}
+
+.prato-container{
+  height: 300px; 
+  width: 240px; 
+  background-color: rgb(250, 250, 250); 
+   
+  
+} 
+
+.food-info{
+  width: 240px; 
+  height: 100px; 
+  
+  text-align: center; 
+
+} 
+
+.food-name{
+  font-weight: bold; 
+  font-size: 20px; 
+  margin-bottom: 15px;
+}
+
+.food-description{
+  font-size: 15px; 
+  margin-left: 10px; 
+  margin-right: 10px;
+}
+
+.cardapio-grid{
+  display: grid; 
+  grid-template-columns: 1fr 1fr 1fr 1fr; 
+  row-gap: 20px; 
+  column-gap: 30px; 
+ 
+} 
+
+.flex-box-cardapio{
+  display: flex; 
+  justify-content: center; 
+  margin-top: 20px; 
+  margin-bottom: 20px;
+}

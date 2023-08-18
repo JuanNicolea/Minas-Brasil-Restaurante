@@ -1,0 +1,58 @@
+.end-header-container{
+  background-color: rgb(67, 29, 29); 
+  height: 250px; 
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  column-gap: 200px;
+} 
+
+.acompanhe-nossas-redes{
+  font-family: arial; 
+  font-size: 40px; 
+   
+  align-items: center; 
+  justify-content: center; 
+  text-align: center;
+} 
+
+.acompanhe{
+  color:rgb(255, 255, 255);
+} 
+
+.nossas-redes{
+  color:rgb(148, 131, 78) ; 
+  font-weight: bold;
+} 
+
+.logo-2{
+  height: 200px;
+} 
+
+.instagram-icon{
+  margin-top: 10px;
+} 
+
+.retangulo{
+  background-color: rgb(148, 131, 78) ; 
+  height: 10px; 
+  width: 1258px; 
+  
+} 
+
+.copyright-container{
+  height: 30px; 
+  background-color: rgb(67, 29, 29); 
+  display: flex; 
+  justify-content: center;
+  
+} 
+
+.copyrigt-text{
+  display: flex; 
+  justify-content: center; 
+  font-family: arial; 
+  color: white; 
+  background-color: rgb(67, 29, 29); 
+  height: 50px;
+}
